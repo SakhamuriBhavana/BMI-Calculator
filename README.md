@@ -10,4 +10,4 @@ Steps to Create a BMI Calculator
 6.Overweight: 25 ≤ BMI < 29.9
 7.Obese: BMI ≥ 30
 8.Output Results: Display the BMI value and the corresponding category.
-Link:- 
+Link:- https://github.com/SakhamuriBhavana/BMI-Calculator/blob/main/LICENSE
